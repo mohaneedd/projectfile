@@ -1,0 +1,10 @@
+c:\users\yn\documents\visual studio 2015\Projects\projjjject\projjjject\bin\Debug\projjjject.exe.config
+C:\Users\YN\Documents\Visual Studio 2015\Projects\projjjject\projjjject\bin\Debug\projjjject.exe
+C:\Users\YN\Documents\Visual Studio 2015\Projects\projjjject\projjjject\bin\Debug\projjjject.pdb
+C:\Users\YN\Documents\Visual Studio 2015\Projects\projjjject\projjjject\obj\Debug\projjjject.csprojResolveAssemblyReference.cache
+C:\Users\YN\Documents\Visual Studio 2015\Projects\projjjject\projjjject\obj\Debug\projjjject.Properties.Resources.resources
+C:\Users\YN\Documents\Visual Studio 2015\Projects\projjjject\projjjject\obj\Debug\projjjject.csproj.GenerateResource.Cache
+C:\Users\YN\Documents\Visual Studio 2015\Projects\projjjject\projjjject\obj\Debug\projjjject.exe
+C:\Users\YN\Documents\Visual Studio 2015\Projects\projjjject\projjjject\obj\Debug\projjjject.pdb
+C:\Users\YN\Documents\Visual Studio 2015\Projects\projjjject\projjjject\obj\Debug\projjjject.Vanity.resources
+C:\Users\YN\Documents\Visual Studio 2015\Projects\projjjject\projjjject\obj\Debug\projjjject.Form2.resources
